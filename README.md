@@ -27,7 +27,9 @@ Already logged in to X (Twitter) with your account in Brave (Profile 1)
  1. Install Puppeteer
 
 Open your terminal and run:
+
 npm init -y
+
 npm install puppeteer
 
 
