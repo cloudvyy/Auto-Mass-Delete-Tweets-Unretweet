@@ -35,7 +35,7 @@ npm install puppeteer
 
 2. Configure Script
 
-Edit auto-delete-all.js and set your actual X username (without the @) here:
+Edit on auto-delete-all.js and set your actual X username (without the @) here:
 const yourUsername = 'yourusername'; // change this
 
 Make sure the paths to Brave and your profile are correct:
@@ -48,7 +48,9 @@ node auto-delete-all.js
 
 
 Optional how to run it open your terminal then write: 
+
 git clone https://github.com/cloudvyy/twitter-auto-delete.git
+
 cd twitter-auto-delete
 
 Then install dependencies:
