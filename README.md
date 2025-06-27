@@ -47,13 +47,14 @@ const userDataDir = 'C:\\Users\\YOURNAME\\AppData\\Local\\BraveSoftware\\Brave-B
 node auto-delete-all.js
 
 
-Optional how to run it open your terminal then write: 
+✅ Optional how to run it open your terminal then write: 
 
 git clone https://github.com/cloudvyy/twitter-auto-delete.git
 
 cd twitter-auto-delete
 
 Then install dependencies:
+
 npm install
 
 
